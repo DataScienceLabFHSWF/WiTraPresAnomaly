@@ -13,7 +13,7 @@ We use supervised and unsupervised machine learning techniques and neural networ
 
 The data (~270GB) can be found under: [insert LINK here].
 
-Contribution
+### Contribution
 
 If you want to contribute to this project, you can do so by submitting a pull request. We welcome all contributions, including bug fixes, feature requests, and new algorithms. Please make sure to follow our contribution guidelines and code of conduct.
 License
