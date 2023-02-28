@@ -1,5 +1,7 @@
 # WiTraPresAnomaly
 
+This is the code repository for the paper: Development of a demonstator plant for hot stamping of metal sheets with a machine learning assisted anomaly detection control system 
+The full text can be found here: [LINK]
 ## Hot Stamping Anomaly Detection System
 
 This project aims to develop a methodology for the systematic detection of anomalies in the hot stamping process of metal blanks for car body parts, using machine learning methods. Due to demographic developments and the increasing complexity of manufacturing processes, there is a need to monitor and analyze crucial process parameters to prevent losses of valuable experience and detect anomalies in real-time.
