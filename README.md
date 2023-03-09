@@ -1,5 +1,7 @@
 # WiTraPresAnomaly
 
+### The code is currently being cleaned up and commented for publication
+
 This is the code repository for the paper: Development of a demonstator plant for hot stamping of metal sheets with a machine learning assisted anomaly detection control system 
 The full text can be found here: [LINK]
 ## Hot Stamping Anomaly Detection System
